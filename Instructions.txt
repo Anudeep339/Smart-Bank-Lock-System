@@ -1,0 +1,13 @@
+1.) Download Python IDLE and Arduino IDE
+2.) Download the required libraries used in the program.
+3.) Change the port numbers by seeing Device Manager in your device.
+4.) Create a AWS account and Login into your account.
+5.) Get the Access ID and secret ID(You can get procedure of getting it in The Internet).
+6.) Now go to the aws_face_rekog folder and change the Access ID and Secret ID in the Python Code.
+7.) Now make the connections by seeing in Connections.txt and connect them to the laptop
+8.) Next burn the code of respective Devices.
+9.) Atlast run the code of aws_face_rekog_handle_opener python code in aws_face_rekog folder.
+10.) For more details, Go to : https://youtu.be/uOfXwTxBprY
+
+The images in aws_face_rekog folder are some of the user faces which acts like a database.
+**For adding a user in the bank add a photo of a user into that folder and change its name to src_##### where #'s represent a 5-digit number which acts as a USER ID.
